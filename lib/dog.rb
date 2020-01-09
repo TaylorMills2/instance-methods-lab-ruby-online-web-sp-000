@@ -2,7 +2,7 @@ class Dog
 end
 
 fido = Dog.new
-fido
+fido.object
 fido = Dog.new
 fido.methods
 
