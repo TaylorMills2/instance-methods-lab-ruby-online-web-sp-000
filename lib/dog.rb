@@ -1,7 +1,8 @@
 class Dog
 end
 
-
+fido = Dog.new
+fido
 fido = Dog.new
 fido.methods
 
