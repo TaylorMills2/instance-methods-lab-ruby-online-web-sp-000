@@ -31,4 +31,8 @@ taylor_mills.talk
 
 class Person
   def walk
-    puts ""
+    puts "The Person is walking"
+  end
+end
+
+taylor_mills.walk
