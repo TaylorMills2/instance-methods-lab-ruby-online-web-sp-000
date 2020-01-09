@@ -2,7 +2,7 @@ class Dog
 end
 
 fido = Dog.new
-fido.object_id
+fido
 
 
 class Dog
