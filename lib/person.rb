@@ -25,5 +25,10 @@ class Person
   end
 end
 
+taylor_mills = Person.new
 taylor_mills.talk
-taylor_mills.walk
+
+
+class Person
+  def walk
+    puts ""
